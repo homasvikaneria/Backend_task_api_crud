@@ -1,0 +1,1 @@
+This project is a Media Management API built with Express.js and MongoDB. It provides a set of RESTful endpoints to manage users, media content, playlists, comments, and subscriptions in a media-sharing platform. 
